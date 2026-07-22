@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Komal Mankari</h1>
 
-<!--
-**komalmankari26/komalmankari26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Cloud & DevOps Engineer | AWS </h2>
+<h3 align="center">🚀 Building scalable cloud infrastructure, automation workflows, and real-world DevOps projects</h3>
 
-Here are some ideas to get you started:
+<h1>🚀 About Me</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Enthusiastic about cloud technologies, DevOps practices, and modern infrastructure management.
+- Gaining practical experience by developing cloud-based and DevOps projects using AWS and open-source tools.
+- Exploring Infrastructure as Code (IaC), containerization, cloud security, CI/CD pipelines, and automation to build efficient and reliable systems.
+- Committed to continuous learning through hands-on projects, technical documentation, and real-world problem-solving.
+- Sharing my cloud and DevOps journey by documenting projects, lessons learned, and best practices.
+- Focused on building scalable, secure, and automated cloud solutions while expanding my technical expertise.
+
+
+<h1>🛠️ Tech Stack</h1>
+<h2>Cloud & DevOps</h2>
+
+![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux,git,github,python,vscode)
+
+<h1>📖 AWS,Cloud & Devops Journey</h1>
+My GitHub showcases hands-on Cloud and DevOps projects, technical documentation, and practical implementations that demonstrate my continuous learning and growth in cloud engineering.
+
